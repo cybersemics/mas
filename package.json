@@ -1,0 +1,13 @@
+{
+  "name": "mas",
+  "description": "Metaprogramming Attribute Specification",
+  "version": "0.0.0",
+  "author": {
+    "name": "Raine Revere",
+    "url": "https://github.com/raineorshine"
+  },
+  "bugs": "https://github.com/cybersemics/mas/issues",
+  "homepage": "https://github.com/cybersemics/mas",
+  "license": "ISC",
+  "repository": "https://github.com/cybersemics/mas"
+}
